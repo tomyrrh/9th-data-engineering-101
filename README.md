@@ -8,6 +8,8 @@
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/gxxdido"><img src="https://avatars.githubusercontent.com/u/166269628?v=4" width="100px;" alt="한수민"/><br /><sub><b>한수민</b></sub></a></td>
+      <!-- 유시은 프로필 -->
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tomyrrh"><img src="https://avatars.githubusercontent.com/u/155514714?v=4" width="100px;" alt="유시은"/><br /><sub><b>유시은</b></sub></a></td>
     </tr>
   </tbody>
 </table>
@@ -41,7 +43,7 @@
 | 2024.09.22 | 1-1<br>1-6 | [Understanding Data Engineering](https://gxxdido.notion.site/1092a592d9ba80efb43febd750aa03dc)<br>[Introduction to Relational Databases in SQL](https://gxxdido.notion.site/007b53e9af104d8682176501ab267381) | 한수민 |
 | (개별 학습) | 1-2<br>1-3<br>1-4<br>1-5 | Introduction to SQL<br>Intermediate SQL<br>Joining Data in SQL<br>(project) Analyzing Students' Mental Health | - | 
 | 2024.09.29 | 1-7<br>1-8 | Database Design<br>Data Warehousing Concepts |  | 
-| 2024.10.06 | 1-9<br>1-10 | Introduction to Snowflake<br>Understanding Data Visualization |  | 
+| 2024.10.06 | 1-9<br>1-10 | Introduction to Snowflake<br>Understanding Data Visualization | 유시은 | 
 | 2024.10.13 | 1-11<br>2-1 | (project) Exploring London's Travel Network<br>Understanding Cloud Computing |  | 
 | (개별 학습) | 2-2<br>2-3 | Introduction to Python for Developers<br>Intermediate Python for Developers | - | 
 | 2024.10.20 | 2-4<br>2-5 | Introduction to Importing Data in Python<br>Intermediate Importing Data in Python |  | 
